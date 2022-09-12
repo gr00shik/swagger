@@ -1,4 +1,4 @@
-package com.gr00shik.rest.swagger.swagger;
+package com.gr00shik.rest.swagger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
